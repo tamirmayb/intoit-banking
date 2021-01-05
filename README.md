@@ -38,7 +38,6 @@ Java 8 (or above), Maven 3.x.x
 
 Wait until server starts... 
 ```
-
 Server online at http://localhost:8080/
 Press RETURN to stop...
 ```
