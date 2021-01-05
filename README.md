@@ -1,7 +1,7 @@
-##Intoit Bank Account Balance Exercise
-#####Author: Tamir Mayblat
+## Intoit Bank Account Balance Exercise
+#### Author: Tamir Mayblat
 
-###Instructions:
+### Instructions:
 * Make sure you have a working Kafka with Zookeeper (basic config.).
 * You can set Kafka url in the application.properties file.
 * You can use Confluent Kafka Platform as describe below to create and run a local Kafka. 
