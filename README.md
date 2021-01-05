@@ -42,7 +42,7 @@ Server online at http://localhost:8080/
 Press RETURN to stop...
 ```
 
-### Testing the Application
+### Test the Application
 
 #### Reading an Account Balance
 
