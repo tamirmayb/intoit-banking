@@ -33,7 +33,7 @@ Java 8 (or above), Maven 3.x.x
 
 `mvn clean package`
 
-### Running the Application
+### Run the Application
 `java -jar ./target/intobank-1.0-spring-boot.jar`
 
 Wait until server starts... 
